@@ -5,8 +5,7 @@
 </p>
 
 <p align="center">
-  I work on real production web applications.<br/>
-  Mostly frontend, but always with an understanding of how the whole system works.
+  I work on web applications and websites end to end, from implementation to maintenance.
 </p>
 
 <p align="center">
@@ -24,7 +23,7 @@ I mostly work on things like:
 
 ## Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td valign="top" width="33%">
 
@@ -50,7 +49,7 @@ I mostly work on things like:
 - PostgreSQL  
 - REST APIs  
 - Docker (basic usage)  
-- CI/CD and deployment basics  
+- CI/CD and basic deployment workflows  
 
 </td>
 </tr>
@@ -61,7 +60,7 @@ I mostly work on things like:
 - Several years of commercial web development
 - Worked with international teams and clients
 - Used to real-world constraints, deadlines, and legacy code
-- Comfortable owning features inside a team, not in isolation
+- Comfortable owning features inside a team, not working in isolation
 
 ## Contact
 
