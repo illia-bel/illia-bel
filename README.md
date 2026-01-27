@@ -1,11 +1,11 @@
 <h1 align="center">Illia Belichenko</h1>
 <p align="center">
-  <strong>Full-stack Developer (Web)</strong><br/>
+  <strong>Frontend Developer</strong><br/>
   Germany · Remote / On-site
 </p>
 
 <p align="center">
-  I work on web applications and websites end to end, from implementation to maintenance.
+  I handle front-end web applications and websites from start to finish, from implementation to maintenance.
 </p>
 
 <p align="center">
