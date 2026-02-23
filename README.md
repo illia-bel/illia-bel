@@ -16,7 +16,7 @@
 
 I mostly work on things like:
 
-- Web applications with real users (SPA / SSR)
+- Web applications (SPA / SSR)
 - Frontend architecture that stays readable over time
 - Integrating APIs and headless CMS into the frontend
 - Shipping features to production and then maintaining them
