@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I handle front-end web applications and websites from start to finish, from implementation to maintenance.
+  I handle web applications and websites from start to finish, from implementation to maintenance.
 </p>
 
 <p align="center">
